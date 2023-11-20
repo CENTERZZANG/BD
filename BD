@@ -1,0 +1,17 @@
+import.java.util.*;
+import.java.lang.*;
+
+class BD{
+public static void main(String arg[]){
+int YYYY=1999;
+int MM=02;
+int DD=19;
+
+Static Name="도영";
+Calendar c= Calendar.getinstance();
+int Year=c.get(Calendar.YEAR);
+int age=Year-YYYY+1;
+
+System.out.println("HAPPY"+Name+"s"+age+"th BIRTHDAY");
+}
+}
