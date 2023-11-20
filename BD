@@ -7,7 +7,7 @@ int YYYY=1999;
 int MM=02;
 int DD=19;
 
-Static Name="도영";
+Static Name="DOOYOUNG";
 Calendar c= Calendar.getinstance();
 int Year=c.get(Calendar.YEAR);
 int age=Year-YYYY+1;
